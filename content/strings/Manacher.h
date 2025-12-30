@@ -18,6 +18,6 @@ array<vi, 2> manacher(const string& s) {
 		while (L>=1 && R+1<n && s[L-1] == s[R+1])
 			p[z][i]++, L--, R++;
 		if (R>r) l=L, r=R;
-	}
+	}	
 	return p;
 }
