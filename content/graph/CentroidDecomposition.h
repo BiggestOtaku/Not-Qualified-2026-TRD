@@ -3,7 +3,7 @@
  * Date: 2024-12-21
  * License: CC0
  * Source: self
- * Description: centorid decomposition
+ * Description: CentoridDecomposition
  * Time: O(N \log N)
  * Status: tested
  */

@@ -3,7 +3,7 @@
  * Date: 2024-12-21
  * License: CC0
  * Source: self
- * Description: custom_hash for umaps<pii,int>.
+ * Description: CustomHash for umaps<pii,int>.
  * Time: O(N)
  * Status: tested
  */
